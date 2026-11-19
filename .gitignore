@@ -54,5 +54,8 @@ src/*.o
 src/*.so
 src/*.dll
 
+# keeps a folder of large data files off github, stored locally instead
 data_raw/
+
+# ignores every map image file
 *.tif
