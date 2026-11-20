@@ -1,0 +1,337 @@
+EEZ,year,n_boats,treatment,color,control
+Angola,2017,1,no card,green,532914
+Argentina,2017,1,no card,green,838628.76
+China,2017,7,no card,green,79935166.11
+Colombia,2017,1,no card,green,206746.5
+Costa Rica,2017,1,no card,green,33622.83
+Denmark,2017,1,no card,green,941987
+Ecuador,2017,1,same,green,1108129
+Equatorial Guinea,2017,1,no card,green,6392
+France,2017,1,no card,green,742968.11
+Gabon,2017,1,no card,green,29050
+Ghana,2017,4,same,green,425182.76
+Guinea,2017,0,same,green,321741.9
+Iceland,2017,1,no card,green,1224644.7
+India,2017,4,no card,green,11763822.01
+Indonesia,2017,4,no card,green,23156059.1
+Iran,2017,1,no card,green,1195366.99
+Ivory Coast,2017,3,no card,green,99748.74
+Japan,2017,5,no card,green,4299760.7
+Kiribati,2017,1,same,yellow,162701
+Liberia,2017,1,increase,yellow,12489.1
+Malaysia,2017,3,no card,green,1901885.53
+Micronesia,2017,0,no card,green,101417
+North Korea,2017,2,no card,green,833760
+Norway,2017,0,no card,green,3867391.27
+Oman,2017,1,no card,green,347616.25
+Panama,2017,1,same,green,187040.1
+Papua New Guinea,2017,1,same,green,331294.57
+Philippines,2017,1,same,green,4126941.23
+Republic of Mauritius,2017,1,no card,green,26240.36
+Russia,2017,2,no card,green,5060376.59
+Senegal,2017,0,same,green,535950.31
+Seychelles,2017,0,no card,green,142653.18
+Singapore,2017,3,no card,green,6943.81
+South Korea,2017,2,same,green,3694266.23
+Sri Lanka,2017,5,same,green,501656.63
+Thailand,2017,3,same,yellow,2388032.35
+Tuvalu,2017,1,same,yellow,7477.5
+United Arab Emirates,2017,0,no card,green,78542
+United Kingdom,2017,0,no card,green,953015.59
+United States,2017,1,no card,green,5465607
+Uruguay,2017,1,no card,green,65378.62
+Vietnam,2017,3,increase,yellow,7146070.53
+Angola,2018,1,no card,green,444858
+Argentina,2018,1,no card,green,838592.31
+China,2018,8,no card,green,80966168.45
+Colombia,2018,1,no card,green,214337.22
+Costa Rica,2018,1,no card,green,36377.57
+Denmark,2018,1,no card,green,825635
+Ecuador,2018,1,same,green,1179204
+Equatorial Guinea,2018,1,no card,green,6422.61
+France,2018,2,no card,green,766121.48
+Gabon,2018,1,no card,green,29062
+Ghana,2018,4,same,green,435373.37
+Guinea,2018,0,same,green,293693.6
+Iceland,2018,1,no card,green,1298685
+India,2018,2,no card,green,12584085
+Indonesia,2018,2,no card,green,23132926.86
+Iran,2018,1,no card,green,1268111.63
+Ivory Coast,2018,3,no card,green,113787.03
+Japan,2018,4,no card,green,4415827.01
+Kiribati,2018,1,same,yellow,197902.53
+Liberia,2018,1,same,yellow,14807.29
+Malaysia,2018,1,no card,green,1855008.87
+Micronesia,2018,1,no card,green,137920.65
+North Korea,2018,0,no card,green,886760
+Norway,2018,1,no card,green,4020185.1
+Oman,2018,0,no card,green,555009.45
+Panama,2018,1,same,green,206371.48
+Papua New Guinea,2018,0,same,green,336045.92
+Philippines,2018,3,same,green,4126424.45
+Republic of Mauritius,2018,2,no card,green,31411.08
+Russia,2018,2,no card,green,5323509.13
+Senegal,2018,1,same,green,485762.67
+Seychelles,2018,2,no card,green,146623.48
+Singapore,2018,3,no card,green,7011.4
+South Korea,2018,4,same,green,3681843.76
+Sri Lanka,2018,2,same,green,510201.19
+Thailand,2018,2,same,yellow,2458068.89
+Tuvalu,2018,1,decrease,green,12821.89
+United Arab Emirates,2018,0,no card,green,78845
+United Kingdom,2018,2,no card,green,889214.31
+United States,2018,1,no card,green,5268019.35
+Uruguay,2018,1,no card,green,69830.11
+Vietnam,2018,0,same,yellow,7539001.5
+Angola,2019,1,no card,green,401696
+Argentina,2019,1,no card,green,828687.19
+China,2019,8,no card,green,82593752.45
+Colombia,2019,0,no card,green,283097.95
+Costa Rica,2019,1,no card,green,39814.97
+Denmark,2019,1,no card,green,678639.49
+Ecuador,2019,1,increase,yellow,1304010.22
+Equatorial Guinea,2019,1,no card,green,6432.72
+France,2019,1,no card,green,720260.92
+Gabon,2019,1,no card,green,29062
+Ghana,2019,4,same,green,369665.72
+Guinea,2019,0,same,green,360643.2
+Iceland,2019,1,no card,green,1100942.8
+India,2019,0,no card,green,13410100.02
+Indonesia,2019,2,no card,green,22760687.73
+Iran,2019,1,no card,green,1282681.01
+Ivory Coast,2019,3,no card,green,115014.87
+Japan,2019,6,no card,green,4206676.31
+Kiribati,2019,1,same,yellow,238700.32
+Liberia,2019,1,same,yellow,16989.03
+Malaysia,2019,2,no card,green,1877376.18
+Micronesia,2019,2,no card,green,181769.51
+North Korea,2019,1,no card,green,884760
+Norway,2019,1,no card,green,3931628.23
+Oman,2019,1,no card,green,580240
+Panama,2019,0,increase,yellow,267500.71
+Papua New Guinea,2019,1,same,green,289580.58
+Philippines,2019,3,same,green,4189087.04
+Republic of Mauritius,2019,1,no card,green,37327.49
+Russia,2019,3,no card,green,5231713.15
+Senegal,2019,0,same,green,517151.27
+Seychelles,2019,1,no card,green,142169.39
+Singapore,2019,1,no card,green,7249.08
+South Korea,2019,3,same,green,3824685.84
+Sri Lanka,2019,2,same,green,505801.79
+Thailand,2019,2,decrease,green,2490448.92
+Tuvalu,2019,1,same,green,8359.78
+United Arab Emirates,2019,0,no card,green,75357
+United Kingdom,2019,2,no card,green,852817.59
+United States,2019,3,no card,green,5320578.85
+Uruguay,2019,1,no card,green,68126.28
+Vietnam,2019,0,same,yellow,7814278.31
+Angola,2020,1,no card,green,376515
+Argentina,2020,1,no card,green,839673.99
+China,2020,6,no card,green,83929521.5
+Colombia,2020,1,no card,green,271273.45
+Costa Rica,2020,1,no card,green,42948.32
+Denmark,2020,1,no card,green,775529.39
+Ecuador,2020,1,same,yellow,1410927.23
+Equatorial Guinea,2020,1,no card,green,5973.28
+France,2020,2,no card,green,669512.04
+Gabon,2020,1,no card,green,28952
+Ghana,2020,5,same,green,434696.15
+Guinea,2020,1,same,green,310705
+Iceland,2020,1,no card,green,1079695.19
+India,2020,0,no card,green,13299483.01
+Indonesia,2020,2,no card,green,21834094.6
+Iran,2020,2,no card,green,1271400.05
+Ivory Coast,2020,4,no card,green,80009.14
+Japan,2020,5,no card,green,4266442.05
+Kiribati,2020,1,decrease,green,212752.3
+Liberia,2020,1,same,yellow,32691.68
+Malaysia,2020,2,no card,green,1791561.76
+Micronesia,2020,1,no card,green,193747.86
+North Korea,2020,1,no card,green,882300
+Norway,2020,0,no card,green,4115779.83
+Oman,2020,2,no card,green,794725.95
+Panama,2020,1,same,yellow,222368.65
+Papua New Guinea,2020,1,same,green,220130.47
+Philippines,2020,1,same,green,4237749.79
+Republic of Mauritius,2020,2,no card,green,29287.69
+Russia,2020,3,no card,green,5372210.06
+Senegal,2020,1,same,green,459463.46
+Seychelles,2020,1,no card,green,139647.59
+Singapore,2020,1,no card,green,5184.44
+South Korea,2020,5,same,green,3710381.41
+Sri Lanka,2020,0,same,green,424605.7
+Thailand,2020,2,same,green,2600397.33
+Tuvalu,2020,1,same,green,11296
+United Arab Emirates,2020,2,no card,green,74435.78
+United Kingdom,2020,1,no card,green,843243.01
+United States,2020,2,no card,green,4717511.61
+Uruguay,2020,1,no card,green,62977.77
+Vietnam,2020,0,same,yellow,8187491.71
+Angola,2021,1,no card,green,531522
+Argentina,2021,1,no card,green,856252.8
+China,2021,6,no card,green,85948133.98
+Colombia,2021,1,no card,green,322551.18
+Costa Rica,2021,1,no card,green,46907.39
+Denmark,2021,1,no card,green,507002.33
+Ecuador,2021,1,same,yellow,1767241.89
+Equatorial Guinea,2021,1,no card,green,6322.12
+France,2021,1,no card,green,704111.64
+Gabon,2021,1,no card,green,29912
+Ghana,2021,5,increase,yellow,482141.55
+Guinea,2021,2,same,green,326270
+Iceland,2021,1,no card,green,1224383.4
+India,2021,2,no card,green,14433204.98
+Indonesia,2021,3,no card,green,21718023.23
+Iran,2021,2,no card,green,1258202.73
+Ivory Coast,2021,4,no card,green,109992.91
+Japan,2021,5,no card,green,4213918.69
+Kiribati,2021,1,same,green,191130.54
+Liberia,2021,2,same,yellow,26319.14
+Malaysia,2021,4,no card,green,1755709.06
+Micronesia,2021,3,no card,green,166333.97
+North Korea,2021,0,no card,green,888630
+Norway,2021,1,no card,green,4244846.27
+Oman,2021,1,no card,green,923786.32
+Panama,2021,1,same,yellow,229440.26
+Papua New Guinea,2021,1,same,green,191017.47
+Philippines,2021,2,same,green,4088382.66
+Republic of Mauritius,2021,1,no card,green,32344.82
+Russia,2021,3,no card,green,5487045
+Senegal,2021,3,same,green,515107.63
+Seychelles,2021,1,no card,green,144232.35
+Singapore,2021,2,no card,green,5549.88
+South Korea,2021,5,same,green,3742566.29
+Sri Lanka,2021,2,same,green,423428.76
+Thailand,2021,1,same,green,2405437.6
+Tuvalu,2021,2,same,green,31087.51
+United Arab Emirates,2021,2,no card,green,70606.94
+United Kingdom,2021,1,no card,green,864698.11
+United States,2021,2,no card,green,4769525.12
+Uruguay,2021,1,no card,green,66384.5
+Vietnam,2021,1,same,yellow,8290423.98
+Angola,2022,1,no card,green,471672
+Argentina,2022,1,no card,green,853774.74
+China,2022,7,no card,green,88567716.02
+Colombia,2022,1,no card,green,312511.99
+Costa Rica,2022,1,no card,green,50441.11
+Denmark,2022,1,no card,green,496114.2
+Ecuador,2022,1,same,yellow,1811374.27
+Equatorial Guinea,2022,0,no card,green,6625.15
+France,2022,0,no card,green,735365.83
+Gabon,2022,1,no card,green,31097
+Ghana,2022,3,same,yellow,652309.27
+Guinea,2022,1,same,green,336050
+Iceland,2022,1,no card,green,1486086.47
+India,2022,2,no card,green,15774324.95
+Indonesia,2022,1,no card,green,22032424.56
+Iran,2022,2,no card,green,1268897.453
+Ivory Coast,2022,2,no card,green,106143.34
+Japan,2022,2,no card,green,3910316.4
+Kiribati,2022,1,same,green,203296.05
+Liberia,2022,1,same,yellow,30712.99
+Malaysia,2022,4,no card,green,1892540.81
+Micronesia,2022,1,no card,green,166733.1715
+North Korea,2022,2,no card,green,900093.327
+Norway,2022,1,no card,green,4262103.08
+Oman,2022,1,no card,green,751823.49
+Panama,2022,1,same,yellow,198492.19
+Papua New Guinea,2022,2,same,green,240192.06
+Philippines,2022,2,same,green,4120499.26
+Republic of Mauritius,2022,0,no card,green,34829.49
+Russia,2022,4,no card,green,5339717
+Senegal,2022,1,same,green,535356.29
+Seychelles,2022,1,no card,green,137838.33
+Singapore,2022,1,no card,green,4952.61
+South Korea,2022,3,same,green,3790845.395
+Sri Lanka,2022,1,same,green,391702.99
+Thailand,2022,2,same,green,2386672.33
+Tuvalu,2022,1,same,green,42782
+United Arab Emirates,2022,1,no card,green,69034.96
+United Kingdom,2022,2,no card,green,871010.4062
+United States,2022,1,no card,green,4741659.94
+Uruguay,2022,1,no card,green,68872.65
+Vietnam,2022,2,same,yellow,8760377.55
+Angola,2023,0,no card,green,475917.048
+Argentina,2023,1,no card,green,858812.011
+China,2023,4,no card,green,89860804.67
+Colombia,2023,1,no card,green,312918.2556
+Costa Rica,2023,1,no card,green,50466.33056
+Denmark,2023,1,no card,green,499388.5537
+Ecuador,2023,1,same,yellow,1812279.957
+Equatorial Guinea,2023,0,no card,green,6684.77635
+France,2023,0,no card,green,740219.2445
+Gabon,2023,1,no card,green,31376.873
+Ghana,2023,4,same,yellow,658180.0534
+Guinea,2023,2,same,green,339074.45
+Iceland,2023,1,no card,green,1496340.467
+India,2023,2,no card,green,16080346.85
+Indonesia,2023,5,no card,green,22329862.29
+Iran,2023,2,no card,green,1272450.366
+Ivory Coast,2023,4,no card,green,107098.6301
+Japan,2023,3,no card,green,3875905.616
+Kiribati,2023,1,same,green,204332.8599
+Liberia,2023,4,same,yellow,30989.40691
+Malaysia,2023,2,no card,green,1889323.491
+Micronesia,2023,1,no card,green,167583.5107
+North Korea,2023,1,no card,green,912064.5682
+Norway,2023,1,no card,green,4289806.75
+Oman,2023,0,no card,green,761822.7424
+Panama,2023,1,same,yellow,198591.4361
+Papua New Guinea,2023,2,same,green,241417.0395
+Philippines,2023,1,same,green,4167885.001
+Republic of Mauritius,2023,0,no card,green,35142.95541
+Russia,2023,4,no card,green,5387774.453
+Senegal,2023,2,same,green,540174.4966
+Seychelles,2023,0,no card,green,139078.875
+Singapore,2023,1,no card,green,5018.479713
+South Korea,2023,3,same,green,3841263.639
+Sri Lanka,2023,2,same,green,396912.6398
+Thailand,2023,2,same,green,2408868.383
+Tuvalu,2023,1,same,green,43000.1882
+United Arab Emirates,2023,2,no card,green,69953.12497
+United Kingdom,2023,3,no card,green,875104.1551
+United States,2023,2,no card,green,4719374.138
+Uruguay,2023,1,no card,green,68907.08633
+Vietnam,2023,1,same,yellow,8828708.495
+Angola,2024,0,no card,green,480343.0765
+Argentina,2024,1,no card,green,862590.7838
+China,2024,7,no card,green,91091897.7
+Colombia,2024,1,no card,green,313481.5084
+Costa Rica,2024,1,no card,green,50774.17517
+Denmark,2024,0,no card,green,505381.2164
+Ecuador,2024,1,same,yellow,1823334.865
+Equatorial Guinea,2024,0,no card,green,6746.94477
+France,2024,1,no card,green,749101.8754
+Gabon,2024,0,no card,green,31668.67792
+Ghana,2024,3,same,yellow,664301.1279
+Guinea,2024,1,same,green,342227.8424
+Iceland,2024,1,no card,green,1508161.556
+India,2024,2,no card,green,16310295.81
+Indonesia,2024,4,no card,green,22675975.16
+Iran,2024,2,no card,green,1276140.472
+Ivory Coast,2024,3,no card,green,108094.6473
+Japan,2024,3,no card,green,3843348.009
+Kiribati,2024,1,same,green,205517.9904
+Liberia,2024,3,same,yellow,31277.60839
+Malaysia,2024,3,no card,green,1894046.799
+Micronesia,2024,2,no card,green,168555.4951
+North Korea,2024,1,no card,green,923556.5818
+Norway,2024,1,no card,green,4323696.223
+Oman,2024,2,no card,green,771421.709
+Panama,2024,1,same,yellow,199802.8439
+Papua New Guinea,2024,2,same,green,242817.2583
+Philippines,2024,2,same,green,4228736.123
+Republic of Mauritius,2024,0,no card,green,35469.7849
+Russia,2024,4,no card,green,5423872.542
+Senegal,2024,1,increase,yellow,545198.1194
+Seychelles,2024,0,no card,green,140372.3085
+Singapore,2024,2,no card,green,5081.712557
+South Korea,2024,4,same,green,3889663.561
+Sri Lanka,2024,2,same,green,401913.739
+Thailand,2024,1,same,green,2427175.782
+Tuvalu,2024,1,same,green,43249.58929
+United Arab Emirates,2024,2,no card,green,70834.53434
+United Kingdom,2024,1,no card,green,879654.6967
+United States,2024,1,no card,green,4721733.825
+Uruguay,2024,1,no card,green,69327.41955
+Vietnam,2024,3,same,yellow,8871086.296
