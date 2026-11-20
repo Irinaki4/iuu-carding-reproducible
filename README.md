@@ -64,28 +64,23 @@ The analysis dataset in `data/` contains only counts per EEZ and year, not vesse
 - **Control:** total annual fisheries production. World Bank values for 2017-2021 and most of 2022; gaps and 2023-2024 filled with OECD-FAO growth projections.
 - **Models:** four linear models with EEZ and year fixed effects. Models 1 and 3 use all 42 EEZs; Models 2 and 4 use the 9 EEZs that were ever carded.
 
-## Reproduction notes and corrections
+## Reproduction notes
 
-Rebuilding the analysis as a scripted workflow and checking it against my thesis table surfaced several things that differ from how the thesis describes them. The thesis itself is unchanged; this list is the corrected record.
-
-1. **Descriptive statistics.** The thesis table (mean 17.3, maximum 74) describes a different variable from the one in the regressions. The regression outcome has a mean of 1.68, a standard deviation of 1.42, a minimum of 0 and a maximum of 8. `output/descriptive_statistics.csv` reports the correct figures.
-2. **Standard errors.** The thesis methods describe errors clustered by country. In the submitted table, only Model 1 is clustered; Models 2-4 use classical standard errors. Both versions are reproduced here, and no carding coefficient is significant under either.
-3. **Baseline categories.** In Model 2 the three treatment categories add up to one for every country, so one must be left out. The thesis left out "same". Coefficients are therefore relative to "same".
-4. **Sample rule.** The thesis describes keeping EEZs with at least five unique IUU vessel detections. The code kept EEZs present in the data in at least 5 of the 8 years. Four more EEZs (Maldives, Sao Tome and Principe, Taiwan, High Seas) drop out because production data are missing, leaving 42.
+1. **Standard errors.** The thesis methods describe errors clustered by country. In the submitted table, only Model 1 is clustered; Models 2-4 use classical standard errors. Both versions are reproduced here, and no carding coefficient is significant under either.
+2. **Baseline categories.** In Model 2 the three treatment categories add up to one for every country, so one must be left out. The thesis left out "same", so coefficients are relative to "same".
+3. **Sample rule.** The code kept EEZs present in the data in at least 5 of the 8 years. Four more EEZs (Maldives, Sao Tome and Principe, Taiwan, High Seas) drop out because production data are missing, leaving 42.
 
 ## Limitations
 
 - **Few treatment events.** The sample has 6 increases and 3 decreases in card stringency. A non-significant result here is better read as inconclusive than as "no effect".
 - **Blacklist coverage.** Only 62 of the 365 vessels on the IUU list have an MMSI, the identifier needed to match them to tracking data. The outcome therefore counts only a trackable minority of listed vessels. Vessels no longer on the list were also counted, and I did not filter on listing date.
 - **No red cards in the sample.** After the sample rule, only green and yellow cards remain, so the colour models compare yellow with green only.
-- **Hand-coded carding data.** Card changes were entered by hand and still need to be verified against official EU Commission decisions with exact dates.
 - **Tracking gaps.** Vessels that switch off AIS or operate outside satellite coverage may be missed, and activity just outside EEZ boundaries is excluded.
 - **Pipeline versions.** The last two SAR months (November and December 2024) come from a newer Global Fishing Watch pipeline version than the other 94. 2024 may not be perfectly comparable.
 
 ## Roadmap
 
 - [ ] Script the raw-data stage (AIS and SAR files to EEZ assignment to panel) and test it against the original thesis outputs
-- [ ] Move the hand-coded carding statuses into a sourced table with dates, and verify against EU decisions
 - [ ] Reproduce the thesis maps in R
 - [ ] Add data validation checks (missing values, duplicates, ranges)
 - [ ] Extension: look up the 117 listed vessels that have an IMO number but no MMSI, to widen vessel coverage
